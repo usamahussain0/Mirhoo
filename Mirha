@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Good Morning, Mirha!</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f0f8ff;
+            text-align: center;
+            padding: 50px;
+        }
+        .message {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            display: inline-block;
+        }
+        h1 {
+            color: #ff69b4;
+        }
+        p {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="message">
+        <h1>Good Morning, My Beautiful Mirha! 🌞💖</h1>
+        <p>My Queen 👑, My Chocolate 🍫, My Princess 👸, My Angel 😇, My Sunshine 🌞</p>
+        <p>... (you can paste the rest of the message here) ...</p>
+        <p>I love you so much and hope you have the most beautiful day, my love! 😘💫</p>
+    </div>
+</body>
+</html>
